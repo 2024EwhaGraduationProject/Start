@@ -7,7 +7,7 @@
 <table>
   <tr>    
     <td align="center"><a href="https://github.com/seoyoung-e"><img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzAzMTlfMTU4%2FMDAxNjc5MjM2NTgyMzgy.DRvDJsTPJWlLHp29HfVeXTy6a0b4EL_SxCKZqIy4Q_Eg.LElTjPzKayf7XcyYKaC_-_Z0NwDX-ZxlqRb5fY2iH_Mg.PNG.ranhee04%2FPicsart%25A3%25DF23%25A3%25AD03%25A3%25AD19%25A3%25DF16%25A3%25AD55%25A3%25AD25%25A3%25AD410.png&type=sc960_832" width="100px;" alt=""/><br /><sub><b>이서영</b></sub></a><br /></td>
-        <td align="center"><a href="https://github.com/Rose-my"><img src="https://avatars.githubusercontent.com/u/61778930?v=4" width="100px;" alt=""/><br /><sub><b>김민영</b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/Rose-my"><img src="https://i.pinimg.com/474x/57/d0/d5/57d0d5ab30d7b9bab035bf5048f23a80.jpg" width="100px;" alt=""/><br /><sub><b>김민영</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/LeeJE12"><img src="https://img1.daumcdn.net/thumb/C500x500/?fname=http://t1.daumcdn.net/brunch/service/user/4arX/image/cr9XuEQ_LA3Asy-updakmyVdwv0.jpg" width="100px;" alt=""/><br /><sub><b>이정은</b></sub></a><br /></td> 
   </tr>
 </table>

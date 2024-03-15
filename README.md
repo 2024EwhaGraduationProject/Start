@@ -1,10 +1,8 @@
 # 2024 캡스톤디자인과 창업프로젝트B 스타트
 
-## 서비스 소개
-
 ### 🧐 잃어버린 물건을 찾아드립니다
 
-### 09팀 보성말차
+### 👩‍💻 09팀 보성말차
 
 <table>
   <tr>    
@@ -14,28 +12,24 @@
   </tr>
 </table>
 
-## 그라운드 룰
+### 📢 그라운드 룰
 
 - 함께 성장하자!
   - 모르는 것은 모른다고 말하기.
   - 함께 공부하면서 내용을 공유하자.
-    
 - 사소한 회의 내용이라도 노션에 공유하자.
   - 회의 내용을 정리하며 빠뜨리는 내용이 없도록!
-    
 - 회의, 작업, 공부하면서 생긴 감정 및 의견 솔직히 표현하자.
   - 무언가 별로거나 기분이 상했다면 고민하지 말고 말하기
   - 감사 표현 등 솔직하게 감정 표현 하자.
   - 고마워. 수고했어. ~ 부분이 좋아/마음에 들어.
-    
 - 깃허브를 제대로 활용하자.
   - main에서 작업 X
   - 브랜치 파서 작업하자.
-    
 - 연락 잘 받기!
   - 노션, 카카오톡 채팅방 수시로 확인하기
 
-## 🛠 Tech stack
+### 🛠 Tech stack
 
 ![](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white) <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">

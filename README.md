@@ -8,7 +8,7 @@
   <tr>    
     <td align="center"><a href="https://github.com/seoyoung-e"><img src="https://avatars.githubusercontent.com/u/61778930?v=4" width="100px;" alt=""/><br /><sub><b>이서영</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Rose-my"><img src="https://avatars.githubusercontent.com/u/61778930?v=4" width="100px;" alt=""/><br /><sub><b>김민영</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/LeeJE12"><img src="https://avatars.githubusercontent.com/u/61778930?v=4" width="100px;" alt=""/><br /><sub><b>이정은</b></sub></a><br /></td> 
+    <td align="center"><a href="https://github.com/LeeJE12"><img src="![Uploading 카피바라~.jpg…]()" width="100px;" alt=""/><br /><sub><b>이정은</b></sub></a><br /></td> 
   </tr>
 </table>
 
